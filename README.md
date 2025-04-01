@@ -11,3 +11,5 @@
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=totoru119)](https://github.com/anuraghazra/github-readme-stats)
