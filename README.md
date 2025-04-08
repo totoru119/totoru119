@@ -6,8 +6,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a jobseeker from South Korea.<br/>
-  #### :fire: I aim to become a application sw developer.<br/>
+  #### :raising_hand: I am a Jobseeker from South Korea.<br/>
+  #### :fire: I aim to become a SW Developer.<br/>
   <br/>
   <br/>
   
