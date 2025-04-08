@@ -6,8 +6,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :raising_hand: I am a jobseeker from South Korea.<br/>
+  #### :fire: I aim to become a application sw developer.<br/>
   <br/>
   <br/>
   
